@@ -1,0 +1,7 @@
+{
+  "name": "Veritas EcoFlux BTC Optimizer",
+  "description": "BTC-native high-performance simulation dashboard for next-generation CO2 capture and particulate filtration systems, utilizing advanced stochastic calculus and BTC-linked truth protocols.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
